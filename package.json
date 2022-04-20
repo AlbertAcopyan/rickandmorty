@@ -1,7 +1,7 @@
 {
   "name": "client-graph-ql",
   "version": "0.1.0",
-  "homepage": "https://albertacopyan.github.io/rickandmorty/public",
+  "homepage": "https://albertacopyan.github.io/rickandmorty",
   "private": true,
   "dependencies": {
     "@apollo/client": "^3.5.10",
