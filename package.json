@@ -1,7 +1,7 @@
 {
   "name": "client-graph-ql",
   "version": "0.1.0",
-  "homepage": "https://AlbertAcopyan.github.io/rickandmorty",
+  "homepage": ".",
   "private": true,
   "proxy": "http://localhost:5000",
   "dependencies": {
