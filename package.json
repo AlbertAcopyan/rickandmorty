@@ -1,9 +1,8 @@
 {
   "name": "client-graph-ql",
   "version": "0.1.0",
-  "homepage": ".",
+  "homepage": "https://albertacopyan.github.io/rickandmorty/public",
   "private": true,
-  "proxy": "http://localhost:5000",
   "dependencies": {
     "@apollo/client": "^3.5.10",
     "@emotion/react": "^11.9.0",
